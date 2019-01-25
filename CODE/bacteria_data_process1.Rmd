@@ -1,0 +1,15 @@
+---
+title: "bacteria_data_process"
+author: "Ilya"
+date: "1/25/2019"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+####install and load required packages
+```{r packages, echo=FALSE}
+source("R_packages_bacteria.R")
+```
